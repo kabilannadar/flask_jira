@@ -25,3 +25,4 @@ pip install --break-system-packages watchtower
 
 # for cloning github repo to EC2
 git clone https://github.com/your-account-name/your-repo-name.git
+lol
